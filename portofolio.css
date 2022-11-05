@@ -26,3 +26,16 @@
         body {
             background-color: blueviolet;
         }
+
+        .cd {
+            padding-left: 150px;
+        }
+        .imag-namaku {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
+        .subtitle{
+            letter-spacing: 10px;
+        }
+        
